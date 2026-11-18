@@ -6,8 +6,11 @@ Windows 桌面美化工具。
 
 在 [Releases](https://github.com/liangaoao7839-cell/GlintDesk/releases) 下载 Windows 10 / Windows 11 x64 安装包。
 
-## 功能
+## 效果展示
+<img width="1920" height="1080" alt="Glint_image" src="https://github.com/user-attachments/assets/4582bb0f-4a81-4faa-ab65-873b80b845fe" />
+<img width="1920" height="1080" alt="Glint_image1" src="https://github.com/user-attachments/assets/32426562-13de-4ee2-b3da-86233ee3861a" />
 
+## 功能
 - 居中悬浮栏、应用固定及运行中应用显示。
 - 应用窗口恢复和最小化切换。
 - 液态玻璃、磨砂玻璃、鱼眼放大和自动隐藏。
