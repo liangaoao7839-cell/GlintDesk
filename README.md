@@ -1,6 +1,6 @@
 # GlintDesk
 
-Windows 桌面美化工具。此仓库只发布软件和收集反馈，不公开 GlintDesk 源码。
+Windows 桌面美化工具。
 
 ## 下载
 
